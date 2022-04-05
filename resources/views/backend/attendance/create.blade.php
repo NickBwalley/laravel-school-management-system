@@ -55,7 +55,7 @@
                         </div>
                     @endforeach
                     <div class="mt-6">
-                        <button class="shadow bg-blue-500 hover:bg-blue-400 focus:shadow-outline focus:outline-none text-white font-bold py-2 px-4 rounded" type="submit">
+                        <button class="shadow bg-green-500 hover:bg-purple-500 focus:shadow-outline focus:outline-none text-white font-bold py-2 px-4 rounded" type="submit">
                             Attendance
                         </button>
                     </div>
