@@ -55,7 +55,7 @@
                     </div>
                 </div>
                 <div class="md:flex md:items-center mb-6 text-gray-700 uppercase font-bold">
-                    <button class="shadow bg-blue-500 hover:bg-blue-400 focus:shadow-outline focus:outline-none text-white font-bold py-2 px-4 rounded" type="submit">Generate</button>
+                    <button class="shadow bg-green-500 hover:bg-purple-500 focus:shadow-outline focus:outline-none text-white font-bold py-2 px-4 rounded" type="submit">Generate</button>
                 </div>
             </form>
 
