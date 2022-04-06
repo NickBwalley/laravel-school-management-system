@@ -24,7 +24,7 @@
             @enderror
         </div>
         <div class="mb-6">
-            <label class="block text-gray-500 font-bold">
+            <label class="block text-gray-700 font-bold">
                 <input class="mr-2 leading-tight" type="checkbox" name="remember" {{ old('remember') ? 'checked' : '' }}>
                 <span class="text-sm">
                     Remember Me
